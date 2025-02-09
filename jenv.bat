@@ -44,3 +44,4 @@ if exist jenv.use.tmp (
 
     del -f jenv.use.tmp
 )
+pause
